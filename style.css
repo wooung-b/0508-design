@@ -1,0 +1,27 @@
+<style>
+
+		a:link, a:active, a:visited, a:hover{ text-decoration: none; }
+		a:link, a:active, a:visited{ color: #e50489; }
+
+		body{background: #030104;}
+
+		nav{ width: 1300px; margin: auto; height: 65px;}
+		nav #logo{ width: 200px; height: 60px; float: left; }
+		nav #logo img{height: 60px; margin-top: 10px;}
+		nav #menuList{ float: left; margin: 0; padding: 0;}
+		nav #menuList .main-menu-item{ list-style: none; float: left; width: 150px; height: 65px;}
+		nav #menuList a{ display: block; height: 65px; text-align: center; line-height: 65px;}
+		nav #menuList a:hover{ color: pink; background: #e50489; text-decoration: underline;}
+		nav #contactList { float: right; margin: 0; padding: 0;}
+		nav #contactList img{ height: 25px; margin-top: 23px;}
+		nav #contactList .contact{ list-style: none; float: left; width: 50px; height: 65px; }
+		div { margin: auto; position: relative;}
+		.image{ width: 1200px;}
+		.hedwig-logo{ position: absolute; right: 95px; top: 95px;}
+		.hedwig-logo img{ width: 70%;}
+		.sticker{position: absolute; left:250px; top: 500px;}
+		.sticker img{ width: 60%; }
+		.image2{ width: 1300px; }
+
+		footer #footer p{text-align: center; color: #e50489; margin: auto; width: 1300px; height: 65px; line-height: 65px;}
+	</style>
